@@ -1,0 +1,15 @@
+{
+  "name": "q-build-status",
+  "version": "1.0.0",
+  "description": "Checks the status of build-unit tests for the Q",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brad & Jordan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.75.0"
+  }
+}
